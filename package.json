@@ -1,0 +1,19 @@
+{
+  "name": "my-frist-koa",
+  "version": "1.0.0",
+  "description": "myx_koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zz8023wanjin-moyuxin/my-frist-koa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zz8023wanjin-moyuxin/my-frist-koa/issues"
+  },
+  "homepage": "https://github.com/zz8023wanjin-moyuxin/my-frist-koa#readme"
+}
